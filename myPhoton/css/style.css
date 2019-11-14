@@ -83,7 +83,7 @@ a {
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 5em 0; } }
+      padding: 2em 0; } }
   .site-section.site-section-sm {
     padding: 4em 0; }
 
@@ -1079,7 +1079,7 @@ a {
   transform: scale(1.2); }
 
 .swiper-container {
-  height: calc(100vh - 192px); }
+  height: calc(100vh - 142px); }
   .swiper-container .swiper-slide .image-wrap {
     display: block;
     overflow: hidden;
