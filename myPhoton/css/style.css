@@ -79,11 +79,15 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
 
+.img-pad {
+  padding-bottom: 1.5rem!important; }
+
 .site-section {
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 2em 0; } }
+      padding-top: 2rem;
+      padding-bottom: 0rem;} }
   .site-section.site-section-sm {
     padding: 4em 0; }
 
