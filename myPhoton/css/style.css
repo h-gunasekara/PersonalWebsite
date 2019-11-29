@@ -82,6 +82,14 @@ a {
 .img-pad {
   padding-bottom: 1.5rem!important; }
 
+.bigimg {
+  scroll-snap-type: y mandatory;
+} 
+
+.bigimgchild {
+  scroll-snap-align: center;
+}
+
 .site-section {
   padding: 2.5em 0; }
   @media (min-width: 768px) {
