@@ -1178,3 +1178,8 @@ a {
 
 #lightgallery .item {
   margin-bottom: 30px; }
+
+div.tableauPlaceholder{
+  width: 90%;
+  max-width: 960px;
+}
