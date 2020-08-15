@@ -1179,7 +1179,19 @@ a {
 #lightgallery .item {
   margin-bottom: 30px; }
 
-div.tableauPlaceholder{
-  width: 90%;
-  max-width: 960px;
+.tableauPlaceholder{
+  max-width: 66%;
+
+  background-color: #242430;
+  margin:auto;
+}
+
+.upbody{
+  background-color: #242430;
+}
+
+@media screen and (max-width:480px) {
+  .tableauPlaceholder {
+    max-width: 100%;
+  }
 }
