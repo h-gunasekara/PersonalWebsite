@@ -1183,7 +1183,9 @@ a {
   max-width: 66%;
 
   background-color: #242430;
+  border-color: #242430;
   margin:auto;
+  margin-bottom: 5%;
 }
 
 .upbody{
